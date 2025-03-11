@@ -1,4 +1,4 @@
-# Anime_Correlation_Project
+# Python_Correlation_Project
 
 The code provides a comprehensive data analysis workflow, from loading and cleaning data to visualizing relationships and performing correlation analysis. Each step prepares the data for deeper insights, particularly in understanding how different features relate to each other within an anime dataset.
 
